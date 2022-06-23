@@ -1,0 +1,7 @@
+.pio
+.vscode/*
+/lib
+CMakeLists.txt
+sdkconfig.esp32cam
+/src/CMakeLists.txt
+/src/wifikeys.h
